@@ -1,0 +1,8 @@
+name: TagTabAPI
+version: 1.0.0-SNAPSHOT
+description: Implementation of TabAPI and TagAPI for Minecraft 1.7.9 to 1.8.3
+main: net.techcable.tagtabapi.TagTabAPI
+depend:
+  - ProtocolLib
+authors:
+  - Techcable
